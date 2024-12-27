@@ -40,6 +40,5 @@ Feel free to explore the projects, clone the repository, and run the code. Sugge
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/master-python-100-days.git
-cd master-python-100-days
-python project.py
+https://github.com/kellerkatlin/python_100_days.git
+cd python_100_days
